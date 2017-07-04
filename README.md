@@ -2,6 +2,8 @@
 
 Projeto de Dataware House para o curso de Sistemas de Informação da UFSC - Universidade Federal de Santa Catarina.
 
+Ver o [artigo](Artigo_Otavio_Thiago_Diogo.pdf) para maiores detalhe.
+
 ## Pré Requisitos
 
 * [Docker](https://www.docker.com/)
